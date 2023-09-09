@@ -1,0 +1,1 @@
+i686-w64-mingw32-g++ -o DLS.exe DLS.cpp 

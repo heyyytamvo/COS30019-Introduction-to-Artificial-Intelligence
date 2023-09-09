@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{1326E776-045D-4468-B39B-A3A6B15B839F}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.testKB PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="testKB/LogicalExpression.cs">
+    <Files>
+      <File FileName="testKB/Program.cs" Line="48" Column="54" />
+      <File FileName="testKB/LogicalExpression.cs" Line="13" Column="54" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="testKB" expanded="True">
+            <Node name="testKB" expanded="True">
+              <Node name="LogicalExpression.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

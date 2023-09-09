@@ -1,0 +1,11 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "unordered_map": "cpp",
+        "iostream": "cpp",
+        "vector": "cpp",
+        "map": "cpp",
+        "algorithm": "cpp",
+        "iosfwd": "cpp"
+    }
+}

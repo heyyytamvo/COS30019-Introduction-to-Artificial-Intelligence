@@ -1,0 +1,15 @@
+/Users/tamvo/Desktop/COS30019/testKB/testKB/testKB/bin/Debug/net6.0/testKB
+/Users/tamvo/Desktop/COS30019/testKB/testKB/testKB/bin/Debug/net6.0/testKB.deps.json
+/Users/tamvo/Desktop/COS30019/testKB/testKB/testKB/bin/Debug/net6.0/testKB.runtimeconfig.json
+/Users/tamvo/Desktop/COS30019/testKB/testKB/testKB/bin/Debug/net6.0/testKB.dll
+/Users/tamvo/Desktop/COS30019/testKB/testKB/testKB/bin/Debug/net6.0/testKB.pdb
+/Users/tamvo/Desktop/COS30019/testKB/testKB/testKB/obj/Debug/net6.0/testKB.csproj.AssemblyReference.cache
+/Users/tamvo/Desktop/COS30019/testKB/testKB/testKB/obj/Debug/net6.0/testKB.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tamvo/Desktop/COS30019/testKB/testKB/testKB/obj/Debug/net6.0/testKB.AssemblyInfoInputs.cache
+/Users/tamvo/Desktop/COS30019/testKB/testKB/testKB/obj/Debug/net6.0/testKB.AssemblyInfo.cs
+/Users/tamvo/Desktop/COS30019/testKB/testKB/testKB/obj/Debug/net6.0/testKB.csproj.CoreCompileInputs.cache
+/Users/tamvo/Desktop/COS30019/testKB/testKB/testKB/obj/Debug/net6.0/testKB.dll
+/Users/tamvo/Desktop/COS30019/testKB/testKB/testKB/obj/Debug/net6.0/refint/testKB.dll
+/Users/tamvo/Desktop/COS30019/testKB/testKB/testKB/obj/Debug/net6.0/testKB.pdb
+/Users/tamvo/Desktop/COS30019/testKB/testKB/testKB/obj/Debug/net6.0/testKB.genruntimeconfig.cache
+/Users/tamvo/Desktop/COS30019/testKB/testKB/testKB/obj/Debug/net6.0/ref/testKB.dll
